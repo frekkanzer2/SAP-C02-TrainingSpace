@@ -1,2 +1,9 @@
 awscliv2.zip
 aws
+s3/iac/terraform/aws-credentials.txt
+s3/iac/terraform/.terraform
+s3/iac/terraform/.terraform.lock.hcl
+s3/iac/terraform/terraform.tfstate
+s3/iac/terraform/.terraform.tfstate.lock.info
+s3/iac/terraform/plan.tfplan
+s3/iac/terraform/terraform.tfstate.backup
